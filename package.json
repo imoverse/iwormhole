@@ -1,5 +1,5 @@
 {
-  "name": "ievents",
+  "name": "@imoverse/iwormhole",
   "version": "1.0.0",
   "description": "Simple event library for the browser.",
   "main": "index.js",
@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imoverse/ievents.git"
+    "url": "git+https://github.com/imoverse/iwormhole.git"
   },
   "author": "Jørgen Landsnes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imoverse/ievents/issues"
+    "url": "https://github.com/imoverse/iwormhole/issues"
   },
-  "homepage": "https://github.com/imoverse/ievents#readme"
+  "homepage": "https://github.com/imoverse/iwormhole#readme"
 }
